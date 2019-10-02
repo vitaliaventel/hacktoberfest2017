@@ -1,4 +1,4 @@
-# hacktoberfest2018
+# hacktoberfest2019
 
 # Instructions
 
@@ -12,6 +12,9 @@
 
 # HACKTOBERFEST DETAILS
 - [FOLLOW THE RULES!](https://hacktoberfest.digitalocean.com/details)
+
+# Hacktoberfest 2019 participants:
+1. Ayushman Dixit
 
 # Hacktoberfest 2018 participants:
 1. Vitalii Leshchenko
