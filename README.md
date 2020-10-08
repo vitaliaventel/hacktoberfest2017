@@ -14,6 +14,9 @@
 - [FOLLOW THE RULES!](https://hacktoberfest.digitalocean.com/details)
 
 # Hacktoberfest 2018 participants:
+1. Axel Campos Salazar https://github.com/Babel78
+
+# Hacktoberfest 2018 participants:
 1. Vitalii Leshchenko
 2. Fredrik Engstrand
 3. Sho Zavgodno
