@@ -9,11 +9,16 @@
 - Create a pull request
 - Celebrate - you've done your first pull request!
 
-
 # HACKTOBERFEST DETAILS
+
 - [FOLLOW THE RULES!](https://hacktoberfest.digitalocean.com/details)
 
+# Hacktoberfest 2020 participants:
+
+1. Axel Campos Salazar https://github.com/Babel78
+
 # Hacktoberfest 2018 participants:
+
 1. Vitalii Leshchenko
 2. Fredrik Engstrand
 3. Sho Zavgodno
@@ -27,8 +32,8 @@
 11. Gökhan Tok
 12. Héctor Quintero
 
-
 # Hacktoberfest 2017 participants:
+
 1. Vitalii Leshchenko
 2. David Gómez
 3. Arpit Batra
@@ -53,7 +58,7 @@
 22. Nicolò Pomini
 23. Shankhalika Sarkar
 24. Sunny Wong
-25. Alona 
+25. Alona
 26. Abhey Rana
 27. Pranjal Srivastava
 28. Mathew Sachin
